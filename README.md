@@ -27,5 +27,5 @@ Presets are organised under `/presets/`:
 
 ## **License**
 
-To be decided. Until a license is added, default copyright applies and the code may not be reused.
-
+To be decided — I'm looking to make this as free as possible. 
+Until a license is added, default copyright applies and the code may not be reused.
