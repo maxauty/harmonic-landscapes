@@ -1,0 +1,2 @@
+param	value	functionTransitionEntropy	meanInterval	registerVariance	meanOccupiedTriads	plrRate	functionTransitionEntropy_sd	meanInterval_sd	registerVariance_sd	meanOccupiedTriads_sd	plrRate_sd
+structuralClockPeriod	16	0.97141493462256	0.44166666666667	358.40032753842	2.24	1.6	0.80656414950428	0.2857738033247	81.730596647499	0.99116093546911	0.0
